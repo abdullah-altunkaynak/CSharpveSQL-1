@@ -1,7 +1,7 @@
 # CSharpveSQL-1
 
 
-# CSharp ADO.NET Repository Pattern Example
+* CSharp ADO.NET Repository Pattern Example
 
 This project is a clean and well-structured **C# Console Application** that demonstrates how to access a SQL Server database using **ADO.NET**, applying **Repository Pattern** and **Layered Architecture** principles.
 
@@ -9,7 +9,7 @@ The project uses the **AdventureWorksDW2022** database and focuses on writing ma
 
 ---
 
-## 🧠 Project Purpose
+** Project Purpose
 
 The main goal of this project is to demonstrate:
 
@@ -24,7 +24,7 @@ This project is intentionally kept simple to focus on **architecture and best pr
 
 ---
 
-## 🏗️ Project Architecture
+** Project Architecture
 
 CSharpADO.Net
 │
